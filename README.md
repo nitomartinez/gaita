@@ -2,3 +2,11 @@ gaita
 =====
 
 Some traditional bagpipe sheet music in Lilypond format. Partituras de gaita galega/gallega en formato Lilypond
+
+Requisites
+==========
+
+ * Lilypond
+ * GNU Make (recommended)
+
+
