@@ -8,6 +8,6 @@ Requisites
 
  * Lilypond
  * GNU Make (recommended)
- * I usually use Linux to compile with Make, but it should work with other unices to
+ * I usually use Linux to compile with Make, but it should work with other unices too
 
 
