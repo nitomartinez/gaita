@@ -8,9 +8,8 @@
 % it under the terms of the GNU General Public License as published by
 % the Free Software Foundation, either version 3 of the License, or
 % (at your option) any later version.
-
 \version "2.16.0"
-#(set-default-paper-size "a4")
+
 pSi = { \grace { b32 } }
 pSiUp = { \grace { b'32 } }
 pSol = { \grace { g32 } }

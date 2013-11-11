@@ -1,4 +1,4 @@
-% A Xeito de Marcha
+% Pasodobre dos Xigantes
 %
 % Copyright 2013 by Nito Martinez
 %
@@ -9,8 +9,8 @@
 % Tradicional
 \version "2.16.0"
 \header {
-title = "A xeito de marcha"
-composer = "tradicional"
+title = "Pasodobre dos xigantes"
+%composer = "tradicional"
 instrument = "gaita galega"
 }
 
@@ -21,12 +21,14 @@ peza = {
     \clef treble
     \time 2/4
     \repeat volta 2 { 
-      g'8 f e d c d e f g f e d e4 c
-      g'8 f e d c d e f g f e d c2
+      g'8 e c e g e c e g e c e d2
+      f8 d b d f d b d f d b d c2
+      g'8 e c e g e c e g e c e d2
+      f8 d b d f d b d g16 a g f e8 d c2
     }
     \repeat volta 2 { 
-      \pSi c8 d e f e d c4 g'8 f e d e4 c8 d 
-       e f e d c4 g'8 f e4 d c2
+      \pSolUp c,4 d e \pSol e8 c d4 \pSol d8 b c d e 4
+      c d e \pSol e8 c d4 \pSol d8 b8 c2
     }
   }
 }
