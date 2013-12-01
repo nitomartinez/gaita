@@ -9,7 +9,7 @@
 % Tradicional
 \version "2.8.4"
 \header {
-title = "Danza de tenorio"
+title = "Danza de enorio"
 composer = "tradicional"
 instrument = "gaita galega"
 }
