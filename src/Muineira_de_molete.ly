@@ -35,13 +35,13 @@ peza = {
     \repeat volta 2
     {
       c4 \pSolUp c,8 \pSolUp c, e8 d c4 \pSolUp c,8 \pSolUp c, d c b4 \pSolUp b,8 \pSolUp b,8 c d 
-      e4. c4. \pSolUp c,4. \pSolUp c,8 d e f4.(f8) g f e c d e b d c2.
+      e4. c4. \pSolUp c,4. \pSolUp c,8 d e f4.(f8) g f e c d e b d
     }
-    % \alternative
-    % {
-    %   { c4.( c4 ) e8 }
-    %   { c4 r8 r4. }
-    % }
+    \alternative
+    {
+      { c4.( c8 ) e d }
+      { c2. }
+    }
   }
 }
 
